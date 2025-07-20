@@ -1,2 +1,4 @@
+scikit-learn
 paho-mqtt
-schedule
+pandas
+numpy
